@@ -22,3 +22,9 @@ i have worked in many sectors/ delivering solutions in  ├── software engin
 
 ### Projects
 * [ChatGov](https://www.chatgov.com.py/) - An LLM powered legal assistant for Paraguayan law.
+
+
+### Articles / Talks
+* De Matemáticas a Data Science | Alvaro Machuca - https://www.youtube.com/watch?v=DlQBzT6j7l0&ab_channel=Girolabs
+* El aumento en la economía de la inseguridad - https://www.pausa.com.py/actualidad/el-aumento-en-la-economia-de-la-inseguridad/1528/
+* Algoritmos, redes sociales y salud mental - https://www.pausa.com.py/actualidad/ciencia-y-tecnologia/precio-atencion/3437/
