@@ -22,9 +22,10 @@ i have worked in many sectors/ delivering solutions in  ├── software engin
 
 ### Projects
 * [ChatGov](https://www.chatgov.com.py/) - An LLM powered legal assistant for Paraguayan law.
-
+* [xata-rs](https://github.com/quanturtle/xata-rs) - Lightweight client for Xata's REST API written in Rust
 
 ### Articles / Talks
 * De Matemáticas a Data Science | Alvaro Machuca - https://www.youtube.com/watch?v=DlQBzT6j7l0&ab_channel=Girolabs
 * El aumento en la economía de la inseguridad - https://www.pausa.com.py/actualidad/el-aumento-en-la-economia-de-la-inseguridad/1528/
 * Algoritmos, redes sociales y salud mental - https://www.pausa.com.py/actualidad/ciencia-y-tecnologia/precio-atencion/3437/
+* Como parsear todas las leyes paraguayas y no morir en el intento - https://twitter.com/willdomPy/status/1661769789554012165
