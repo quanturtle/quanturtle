@@ -20,4 +20,5 @@ i have worked in many sectors/ delivering solutions in  ├── software engin
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Checkout [ChatGov](https://www.chatgov.com.py/)! An LLM powered legal assistant for Paraguayan law.
+### Projects
+* [ChatGov](https://www.chatgov.com.py/) - An LLM powered legal assistant for Paraguayan law.
